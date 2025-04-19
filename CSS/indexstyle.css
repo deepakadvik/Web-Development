@@ -1,0 +1,14 @@
+h1{
+    color: rgb(0, 0, 255);
+    background-color:cadetblue;
+}
+
+p {
+    color: rgb(255, 255, 0);
+    background-color: cadetblue;
+}
+
+button {
+    color: #ffff00;
+    background-color: black;
+}
