@@ -32,3 +32,4 @@ In the final phase, you’ll combine everything you've learned to build full-sta
 Explore TensorFlow.js
 Experiment with Langchain for AI-driven web apps
 
+# Course Link: udemy.com/course/web-dev-master/
